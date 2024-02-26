@@ -1,3 +1,6 @@
 [submodule "handson-ml3"]
 	path = handson-ml3
 	url = https://github.com/ageron/handson-ml3
+[submodule "machine-learning-notes"]
+	path = machine-learning-notes
+	url = https://github.com/ideven85/machine-learning-notes
