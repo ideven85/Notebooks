@@ -4,3 +4,6 @@
 [submodule "machine-learning-notes"]
 	path = machine-learning-notes
 	url = https://github.com/ideven85/machine-learning-notes
+[submodule "PyTorchStepByStep"]
+	path = PyTorchStepByStep
+	url = https://github.com/dvgodoy/PyTorchStepByStep

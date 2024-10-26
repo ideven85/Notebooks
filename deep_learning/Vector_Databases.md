@@ -1,0 +1,5 @@
+# Vector Databases in Action
+Theory is great, but let’s see how vector databases shine in real-world applications.
+* 		Recommendation Systems: Ever wondered how Netflix always knows your next favorite show, or how Amazon suggests products that you’re inclined to purchase? The secret ingredient is vector databases. They represent items (like movies or products) and users as vectors, and then use the similarity between item vectors and user vectors to predict what items a user might enjoy.
+* 		Image and Video Search: Remember our image analogy? Vector databases are perfect for that. They empower image or video search systems to find similar images or videos based on visual similarity, not just text tags.
+* 		Semantic Search: Semantic search is a sophisticated way to understand the meaning of a query, not just the specific words used. For instance, if you search for “pictures of cute cats”, a semantic search system might also show you pictures of adorable kittens, even if the word “kitten” wasn’t in your query. Vector databases can represent documents, queries, and concepts as vectors, and then use vector similarity to find relevant results.
